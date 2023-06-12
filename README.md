@@ -11,5 +11,5 @@ The functions that retrieve data and structure it into tables are contained in m
 
 The pipeline was hosted on AWS using RDS. EventBridge was used to schedule regular invocations of Lambda functions that updated to the weather, flights, and populations tables.
 
-An overview of the creation of this pipeline was published on Medium.
+An overview of the creation of this pipeline was published on [Medium](https://medium.com/@eliweaverdyck/engineer-an-automated-cloud-based-data-pipeline-in-6-easy-steps-75a5a45cd969).
 
